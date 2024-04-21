@@ -22,7 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desk](/images/CapturaDesk.png);
+![Phone](/images/CapturaPhone.png);
 
 
 ### Links
